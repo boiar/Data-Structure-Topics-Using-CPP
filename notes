@@ -1,0 +1,56 @@
+*Storting 
+    * in-place sort     
+    * not in-place sort ( sort in another array)
+
+
+1- Bubble Sort 
+    * Loop in all cases => loop(loop) => n2
+    * Improve algo for best case => loop(loop) => n
+    * Space Complexity => O (1)
+    * In-Place
+    * Stable
+
+--------------------------------------------------------------------------------------
+
+2- Selection Sort
+    * select the smallest num and set it in first 
+    * Loop in all cases => loop(loop) => n2
+    * Space Complexity => O (1)
+    * In-Place
+    * Stable
+
+--------------------------------------------------------------------------------------
+
+3- Insertion Sort
+    * select the smallest num and set it in first 
+    * Loop in all cases => loop(loop) => n2
+    * Space Complexity => O (1)
+    * In-Place
+    * Stable
+
+
+--------------------------------------------------------------------------------------
+
+4- Recurrence   vs Iteration
+
+    - Recurrence
+        * Simplicity
+        * Readability
+
+        # Performance => less efficient due to the overhead of multiple function calls increased memory usage and slower performance.
+        # Stack Overflow
+
+    - Iteration
+        * Efficiency => use less memory, avoid the overhead of multiple function calls
+        
+        # Complexity => less efficient due to the overhead of multiple function calls increased memory usage and slower performance.
+        # Readability
+
+--------------------------------------------------------------------------------------
+
+5-  Recurrence Time
+
+
+--------------------------------------------------------------------------------------
+
+5-  Merge Sort (divide and conquer) 
