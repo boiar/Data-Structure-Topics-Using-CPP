@@ -46,11 +46,23 @@
         # Complexity => less efficient due to the overhead of multiple function calls increased memory usage and slower performance.
         # Readability
 
---------------------------------------------------------------------------------------
-
-5-  Recurrence Time
-
 
 --------------------------------------------------------------------------------------
 
-5-  Merge Sort (divide and conquer) 
+5- Stack  => Linear data structure  :   Last in first out (LIFO) 
+
+    Main operations :
+
+        * Push    : Adds an element to the top of the stack.
+        * Pop     : Removes and returns the top element from the stack.
+        * Top     : Returns the top element of the stack without removing it.
+        * isEmpty : Checks if the stack is empty.
+        * Size    : Returns the number of elements in the stack.
+
+    Usage : 
+        * Function Call Management
+        * Undo/Redo Operations
+        * Browser History 
+       
+
+--------------------------------------------------------------------------------------
