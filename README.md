@@ -85,7 +85,6 @@ A **Linked List** is a linear data structure where each element, called a node, 
 
 ## 📊 Array VS Linked List
 
-|------------------------------------------------------------------|
 |          Array            |           Linked List                |
 |---------------------------|--------------------------------------|
 | Fixed Size                | Dynamic Size                         |
@@ -93,4 +92,3 @@ A **Linked List** is a linear data structure where each element, called a node, 
 | Bad Removal               | Good Removal                         |
 | Bad Insertion             | Good Insertion                       |
 | Space Wastage             | No Space Wastage                     |
-|------------------------------------------------------------------|
